@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-25T09:51:49.250Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="K6D5Ezx0XF-6ejTSabvP" version="24.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-25T10:45:14.238Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="s1Er-GW7B7yuZIDUEDzH" version="24.7.2" type="github">
   <diagram name="Page-1" id="nzeid53WU8ba-pOq-7hL">
     <mxGraphModel dx="817" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -141,6 +141,12 @@
             <mxPoint x="314.66999999999996" y="620" as="sourcePoint" />
             <mxPoint x="314.66999999999996" y="580" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Pa2z5fRNt225UgswTgk7-43" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pa2z5fRNt225UgswTgk7-44" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Note&lt;/h1&gt;&lt;p&gt;images.js -- images package for easy export and import&lt;/p&gt;&lt;p&gt;adminPages.js -- all the pages imported and exported for easy stuff&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="10" width="180" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
